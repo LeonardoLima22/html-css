@@ -1,0 +1,11 @@
+body#corpo{
+    text-align: center;
+    color: white;
+    background-color: rgb(24, 23, 23);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a#links{
+    color: white;
+    text-decoration: none;
+}
